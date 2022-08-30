@@ -1,4 +1,4 @@
-#  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> Howdy! I'm Ford
+#  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Howdy! I'm Ford
 
 ### ⚡ About me
 - I am passionate about everything data: **collecting**, **cleaning**, **analyzing**, **visualizing**, and **storytelling**.
