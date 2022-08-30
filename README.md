@@ -2,7 +2,7 @@
 
 ### ⚡ About me
 - I am passionate about everything data: **collecting**, **cleaning**, **analyzing**, **visualizing**, and **storytelling**.
-- My background is in sociology, and I shifted into data analytics in early 2022. 
+- My background is in sociology, and I shifted into data analytics in late 2021. 
 - Self-taught R data analyst. 
 - I am currently enrolled in Thinkful's data analytics bootcamp.
 
