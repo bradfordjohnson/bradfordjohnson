@@ -12,10 +12,10 @@
 ### 🌱 Currently learning
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  
 
-### 🛠 Tools & languages I work with
+### 🛠️ Tools & languages I work with
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  ![R](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)  ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  ![Tableau](	https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)  ![GitHub](	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
 
-### 📝 Current projects and work 
+### 📝 Recent projects and work 
 Title | Short Description
 ------------- | -------------
 [RFID Tag Data Analysis](https://1drv.ms/b/s!Ahpkb3AfX4xfgroaRd_pWRG195p_Pw?e=9eeM8r) | This PDF is a copy of my R notebook where I did a longer term analysis looking at RFID tag data from 3/10/2022 to 8/4/2022
@@ -23,7 +23,7 @@ Title | Short Description
 [RFID Tag Error EDA](https://1drv.ms/b/s!Ahpkb3AfX4xfgrh5TKG-ephx47IRaQ?e=Cdtmdz) | This is a PDF copy of my R notebook where I investigate how effective a software update was for reading RFID tags **[Self-collected Data]**
 [My Own R "Cookbook"](https://bradfordjohnson.github.io/r-cookbook/)| This is a Quarto book/website made in R, that shows how one can use R for data analytics. **[WORK IN PROGRESS]** 
 coming soon... | coming soon...
-
+####  🔎 Also check out my repositories to see more :)
 
 ### 📊 GitHub stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bradfordjohnson&hide_border=true)](https://git.io/streak-stats)
