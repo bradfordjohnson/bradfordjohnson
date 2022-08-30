@@ -12,4 +12,4 @@ Title | Short Description
 [RFID Tag Error EDA](https://1drv.ms/b/s!Ahpkb3AfX4xfgrh5TKG-ephx47IRaQ?e=Cdtmdz) | This is a PDF copy of my R notebook where I investigate how effective a software update was for reading RFID tags **[Self-collected Data]**
 [My Own R "Cookbook"](https://bradfordjohnson.github.io/r-cookbook/)| This is a Quarto website made in R, that shows how one can use R for data analytics. **[WORK IN PROGRESS]** 
 [Airplane Performance Analysis in Quarto](https://bradfordjohnson.github.io/r-airplane-performance/) | A Quarto book project that shows the stages of data analysis and goes into creating reproducible reports. **[WORK IN PROGRESS]** 
-Coming soon! <img src="https://github.com/bradfordjohnson/bradfordjohnson/blob/main/spinner2.gif" width="30px"> | Coming soon! <br> <img src="https://github.com/bradfordjohnson/bradfordjohnson/blob/main/spinner2.gif" width="30px">
+Coming soon! <img src="[https://github.com/bradfordjohnson/bradfordjohnson/blob/main/spinner2.gif](https://github.com/bradfordjohnson/bradfordjohnson/blob/main/slime.gif)" width="30px"> | Coming soon!
