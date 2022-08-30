@@ -1,8 +1,13 @@
-
-
-
-
 ## Howdy! I'm Ford
+
+## About Me:
+- I am passionate about data, from cleaning up and analyzing a dataset, to the storytelling element of communicating data insights.
+- My background is in sociology, and I shifted into data analytics in early 2022. 
+- I taught myself R 
+- 
+
+
+
 
 I like to stay busy on GitHub by updating it with my latest work and projects. 
 
