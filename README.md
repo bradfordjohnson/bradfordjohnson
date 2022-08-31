@@ -29,8 +29,8 @@ Title | Short Description | Status
 [RFID Tag Data Analysis](https://1drv.ms/b/s!Ahpkb3AfX4xfgroaRd_pWRG195p_Pw?e=9eeM8r) | This PDF is a copy of my R notebook where I did a longer term analysis looking at RFID tag data from 3/10/2022 to 8/4/2022 | ![Badge](https://img.shields.io/badge/%E2%9C%85-Complete-brightgreen)
 [Cactus vs Sugarcane](https://www.kaggle.com/code/bradfordjohnson/cactus-vs-sugarcane?kernelSessionId=101591092) | In this Kaggle notebook I show how to remove outliers with R | ![Badge](https://img.shields.io/badge/%E2%9C%85-Complete-brightgreen)
 [RFID Tag Error EDA](https://1drv.ms/b/s!Ahpkb3AfX4xfgrh5TKG-ephx47IRaQ?e=Cdtmdz) | This is a PDF copy of my R notebook where I investigate how effective a software update was for reading RFID tags | ![Badge](https://img.shields.io/badge/%E2%9C%85-Complete-brightgreen) ![Badge](https://img.shields.io/badge/%F0%9F%94%8E-Self%20Collected%20Data-blue)
-[My Own R "Cookbook"](https://bradfordjohnson.github.io/r-cookbook/)| This is a Quarto website made in R. It's purpose is to help teach data analytics concepts and code for beginners using R. | ![WIP](https://img.shields.io/badge/%E2%8F%B3-Work%20in%20progress-red)
-[Airplane Performance](https://bradfordjohnson.github.io/r-airplane-performance/)| View my analysis of various airplanes and their performances online in the form of a Quarto book. | ![WIP](https://img.shields.io/badge/%E2%8F%B3-Work%20in%20progress-red)
+[My Own R "Cookbook"](https://bradfordjohnson.github.io/r-cookbook/)| This is a Quarto website made in R. It's purpose is to help teach data analytics concepts and code for beginners using R | ![WIP](https://img.shields.io/badge/%E2%8F%B3-Work%20in%20progress-red)
+[Airplane Performance](https://bradfordjohnson.github.io/r-airplane-performance/)| View my analysis of various airplanes and their performances online in the form of a Quarto book | ![WIP](https://img.shields.io/badge/%E2%8F%B3-Work%20in%20progress-red)
 ####  🔎 Also check out my repositories to see more :)
 
   
