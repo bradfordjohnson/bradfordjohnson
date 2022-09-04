@@ -5,6 +5,7 @@
 - My background is in sociology, and I shifted into data analytics in late 2021. 
 - Self-taught R data analyst. 
 - I am currently enrolled in Thinkful's data analytics bootcamp.
+- I enjoy meeting new people, if you want to get to know more about myself or my work, reach out!
 
 
 
