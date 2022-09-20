@@ -18,7 +18,7 @@
 > ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)  
 
 #### *R Specific*  
-> <img src="https://github.com/rstudio/hex-stickers/blob/master/thumbs/quarto.png?raw=true" width="100px">  <img src="https://github.com/rstudio/hex-stickers/blob/master/thumbs/devtools.png?raw=true" width="100px">  <img src="https://github.com/rstudio/hex-stickers/blob/master/thumbs/roxygen2.png?raw=true" width="100px">
+> <img src="https://github.com/rstudio/hex-stickers/blob/master/thumbs/quarto.png?raw=true" width="100px">  <img src="https://github.com/rstudio/hex-stickers/blob/master/thumbs/devtools.png?raw=true" width="100px">  <img src="https://github.com/rstudio/hex-stickers/blob/master/thumbs/roxygen2.png?raw=true" width="100px"> <img src="https://github.com/rstudio/hex-stickers/blob/master/thumbs/dbplyr.png?raw=true" width="100px">  <img src="https://github.com/rstudio/hex-stickers/blob/master/thumbs/rvest.png?raw=true" width="100px">
 #
 ### 🛠️ Tools and languages I work with
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  ![R](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)  ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  ![Tableau](	https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)  ![GitHub](	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
