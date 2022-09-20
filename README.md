@@ -7,22 +7,22 @@
 - I am currently enrolled in Thinkful's data analytics bootcamp, and I will complete it in December 2022.
 - I enjoy meeting new people, if you want to get to know more about myself or my work, reach out!
 
-
-
+#
 ### 📬 Find me on
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bradford-ford-johnson)  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/bradfordjohnson)  [![outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:bradfordljohnson@outlook.com)  [![](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-5460-9984)
+#
+  
+  
+### 🌱 Currently learning 
+#### *General*  
+> ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)  
 
-  
-  
-### 🌱 Currently learning
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
-  
-  
+#### *R Specific*  
+> <img src="https://github.com/rstudio/hex-stickers/blob/master/thumbs/quarto.png?raw=true" width="100px">  <img src="https://github.com/rstudio/hex-stickers/blob/master/thumbs/devtools.png?raw=true" width="100px">  <img src="https://github.com/rstudio/hex-stickers/blob/master/thumbs/roxygen2.png?raw=true" width="100px">
+#
 ### 🛠️ Tools and languages I work with
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  ![R](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)  ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  ![Tableau](	https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)  ![GitHub](	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
-
-  
-  
+#
 ### 📝 Recent projects and work 
 Title | Short Description | Status / Information
 ------------- | ------------- | -------------
@@ -34,7 +34,7 @@ Title | Short Description | Status / Information
 <!---[Cactus vs Sugarcane](https://www.kaggle.com/code/bradfordjohnson/cactus-vs-sugarcane?kernelSessionId=101591092) | In this Kaggle notebook I show how to remove outliers with R | ![Badge](https://img.shields.io/badge/%E2%9C%85-Complete-brightgreen)--->
 <!---[RFID Tag Data Analysis](https://1drv.ms/b/s!Ahpkb3AfX4xfgroaRd_pWRG195p_Pw?e=9eeM8r) | This PDF is a copy of my R notebook where I completed an analysis looking at RFID tag data over time | ![Badge](https://img.shields.io/badge/%E2%9C%85-Complete-brightgreen)--->
 ####  🔎 Also check out my repositories to see more :)
-
+---
   
   
 ### 📊 GitHub stats
