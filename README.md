@@ -26,6 +26,7 @@
 ### 📝 Recent projects and work 
 Title | Short Description | Status / Information
 ------------- | ------------- | -------------
+[strainerr](https://github.com/bradfordjohnson/strainerr) | This is the first R package that I am developing | ![WIP](https://img.shields.io/badge/%E2%8F%B3-Work%20in%20progress-red)
 [Portfolio Website](https://bradfordjohnson.github.io/portfolio/) | This is a Quarto Blog that has my projects and links to them |  ![WIP](https://img.shields.io/badge/%E2%8F%B3-Work%20in%20progress-red)  ![Q](https://img.shields.io/badge/%F0%9F%93%96-Quarto-9cf)
 [rblogr](https://bradfordjohnson.github.io/rblogr/) | This is the improved version of my "R Cookbook", but in blog format which allows for more organization and opportunites when it comes to tutorials | ![WIP](https://img.shields.io/badge/%E2%8F%B3-Work%20in%20progress-red)  ![Q](https://img.shields.io/badge/%F0%9F%93%96-Quarto-9cf)
 [Twitter Analysis Project](https://bradfordjohnson.github.io/twitter-analysis-project/) | This is a project using R, SQL, Quarto, and pgAdmin4 to clean, store, query, and extract insights on certain topics via Tweets | ![WIP](https://img.shields.io/badge/%E2%8F%B3-Work%20in%20progress-red)  ![Badge](https://img.shields.io/badge/%F0%9F%94%8E-Self%20Collected%20Data-blue)  ![Q](https://img.shields.io/badge/%F0%9F%93%96-Quarto-9cf)
