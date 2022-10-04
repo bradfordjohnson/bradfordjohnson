@@ -2,9 +2,9 @@
 
 ### ⚡ About me
 - I am passionate about everything data: **collecting**, **cleaning**, **analyzing**, **visualizing**, and **storytelling**.
-- My background is in sociology, and I shifted into data analytics in late 2021. 
-- Self-taught R data analyst. 
-- I am currently enrolled in Thinkful's Data Analytics Bootcamp, and I will complete it in December 2022.
+- My background is in sociology, and I shifted into **data analytics** in late 2021. 
+- Self-taught `R` **data analyst**. 
+- I am currently enrolled in *Thinkful's Data Analytics Bootcamp*, and I will complete it in December 2022.
 - I enjoy meeting new people, if you want to get to know more about myself or my work, reach out!
 
 **Check out my portfolio ->** [ford-johnson.com](https://ford-johnson.com/)
