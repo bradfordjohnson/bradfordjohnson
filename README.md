@@ -37,6 +37,5 @@ Title | Short Description | Status / Information
 <!---[RFID Tag Data Analysis](https://1drv.ms/b/s!Ahpkb3AfX4xfgroaRd_pWRG195p_Pw?e=9eeM8r) | This PDF is a copy of my R notebook where I completed an analysis looking at RFID tag data over time | ![Badge](https://img.shields.io/badge/%E2%9C%85-Complete-brightgreen)--->
 ####  🔎 Also check out my repositories to see more :)
 ---
-  
 ### 📊 GitHub stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bradfordjohnson&hide_border=true)](https://git.io/streak-stats)
