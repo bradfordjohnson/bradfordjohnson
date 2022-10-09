@@ -38,6 +38,5 @@ Title | Short Description | Status / Information
 ####  🔎 Also check out my repositories to see more :)
 ---
   
-  
 ### 📊 GitHub stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bradfordjohnson&hide_border=true)](https://git.io/streak-stats)
