@@ -26,6 +26,7 @@
 Title | Short Description | Status / Information
 ------------- | ------------- | -------------
 [Portfolio Website](https://ford-johnson.com/) | This is a Quarto website made in R that lists my projects and links to them |  ![](https://img.shields.io/badge/%E2%8F%B3-Ongoing%20project-orange)  ![Q](https://img.shields.io/badge/%F0%9F%93%96-Quarto-9cf)
+[Favorite Pokémon Table](https://github.com/bradfordjohnson/favorite-pokemon-table) | This is my first table I made using the `gt` package for `R` | ![](https://img.shields.io/badge/✅-Complete-limegreen)
 ####  🔎 Also check out my repositories to see more :)
 ---
 ### 📊 GitHub stats
