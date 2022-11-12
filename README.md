@@ -25,6 +25,8 @@
 ### 📝 Recent projects and work 
 Title | Short Description | Status / Information
 ------------- | ------------- | -------------
+[Fuel Economy Analysis](https://github.com/bradfordjohnson/fuel-economy) | Data-backed analysis and recommendations around vehicle fuel economy | ![](https://img.shields.io/badge/✅-Complete-limegreen)
+[Lariat Rent-A-Car Analysis](https://github.com/bradfordjohnson/lariat-rentals) | Business analysis with a focus on minimizing costs and maximizing revenue | ![](https://img.shields.io/badge/✅-Complete-limegreen)
 [Portfolio Website](https://ford-johnson.com/) | This is a Quarto website made in R that lists my projects and links to them |  ![](https://img.shields.io/badge/%E2%8F%B3-Ongoing%20project-orange)  ![Q](https://img.shields.io/badge/%F0%9F%93%96-Quarto-9cf)
 [Favorite Pokémon Table](https://github.com/bradfordjohnson/favorite-pokemon-table) | This is my first table I made using the `gt` package for `R` | ![](https://img.shields.io/badge/✅-Complete-limegreen)
 ####  🔎 Also check out my repositories to see more :)
