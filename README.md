@@ -1,6 +1,6 @@
 #  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Howdy! I'm Ford
 
-R is my go to for just about anything. But I try to sprinkle in some Excel, Tableau, Python and SQL.
+R is my go to for just about anything. But I try to sprinkle in some Excel, Tableau, Python and SQL :)
 
 **Check out my portfolio:** [ford-johnson.com](https://ford-johnson.com/)
 ---
