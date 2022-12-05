@@ -7,6 +7,7 @@ R is my go-to for just about anything... but I try to sprinkle in some Excel, Ta
 ### 📝 Recent projects and work 
 > Title | Short Description | Status / Information
 > ------------- | ------------- | -------------
+> [Vending Machine Analysis](https://github.com/bradfordjohnson/vending-machines) | Capstone data analysis Python project with recommendations on vending machine revenue and optimizing stock | ![](https://img.shields.io/badge/%E2%8F%B3-Ongoing%20project-orange) |
 > [Fuel Economy Analysis](https://ford-johnson.com/projects/fuel-economy/) | Data-backed analysis and recommendations around vehicle fuel economy | ![](https://img.shields.io/badge/✅-Complete-limegreen)
 > [Lariat Rent-A-Car Analysis](https://ford-johnson.com/projects/lariat-rentals/) | Business analysis with a focus on minimizing costs and maximizing revenue | ![](https://img.shields.io/badge/✅-Complete-limegreen)
 > [Portfolio Website](https://ford-johnson.com/) | This is a Quarto website made in R that lists my projects and links to them |  ![](https://img.shields.io/badge/%E2%8F%B3-Ongoing%20project-orange)  ![Q](https://img.shields.io/badge/%F0%9F%93%96-Quarto-9cf)
