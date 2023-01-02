@@ -5,8 +5,8 @@ I'm a data analyst, which is a more concise way of saying: I help businesses mak
 Tools: `R`, `Python`, `SQL`, `Tableau`, `Excel`
 
 Hobbies: `Hiking`, `Photography`, `Learning`
-
-**Check out my portfolio:** [ford-johnson.com](https://ford-johnson.com/)
+<!--- WORK IN PROGRESS --->
+<!--- **Check out my portfolio:** [ford-johnson.com](https://ford-johnson.com/) --->
 
 Gallery
 ---
