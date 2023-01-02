@@ -12,7 +12,7 @@ Gallery
 ---
 <p align= "center">
   <a href="https://github.com/bradfordjohnson/data-viz/blob/main/new-years-2023/r/02-analyze-resolutions.R"> 
-  <img src="https://github.com/bradfordjohnson/bradfordjohnson/blob/main/images/data-viz/new-years-resolutions-v2.png" width="31%" /> 
+  <img src="https://github.com/bradfordjohnson/bradfordjohnson/blob/main/images/data-viz/new-years-resolutions-v3.png" width="31%" /> 
     </a>
   <a href="https://github.com/bradfordjohnson/data-viz/blob/main/rfid-tags/r/02-analyze.R"> 
   <img src="https://github.com/bradfordjohnson/bradfordjohnson/blob/main/images/data-viz/daily-rfid-dist-v3.png" width="31%" /> 
