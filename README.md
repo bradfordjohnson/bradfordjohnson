@@ -6,7 +6,7 @@ Tools: `R`, `Python`, `SQL`, `Tableau`, `Excel`
 
 Hobbies: `Hiking`, `Photography`, `Learning`
 <!--- WORK IN PROGRESS --->
-<!--- **Check out my portfolio:** [ford-johnson.com](https://ford-johnson.com/) --->
+**Check out my portfolio:** [ford-johnson.com](https://ford-johnson.com/)
 
 Gallery
 ---
