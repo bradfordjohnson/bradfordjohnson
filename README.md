@@ -15,7 +15,7 @@ Gallery
   <img src="https://github.com/bradfordjohnson/bradfordjohnson/blob/main/images/data-viz/new-years-resolutions-v2.png" width="31%" /> 
     </a>
   <a href="https://github.com/bradfordjohnson/data-viz/blob/main/rfid-tags/r/02-analyze.R"> 
-  <img src="https://github.com/bradfordjohnson/bradfordjohnson/blob/main/images/data-viz/daily-rfid-dist-v2.png" width="31%" /> 
+  <img src="https://github.com/bradfordjohnson/bradfordjohnson/blob/main/images/data-viz/daily-rfid-dist-v3.png" width="31%" /> 
     </a>
   <a href="https://github.com/bradfordjohnson/data-viz/blob/main/day-time-heatmap/r/02-analyze.R"> 
   <img src="https://github.com/bradfordjohnson/bradfordjohnson/blob/main/images/data-viz/weekly-heatmap-v4.png" width="31%" /> 
