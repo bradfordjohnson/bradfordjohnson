@@ -10,14 +10,15 @@ Hobbies: `Hiking`, `Photography`, `Watching Documentaries`
 
 Gallery
 ---
+<!--- SEND ALL LINKS TO REPOS --->
 <p align= "center">
-  <a href="https://github.com/bradfordjohnson/data-viz/blob/main/atlanta-crime-maps/r/02-map.R"> 
+  <a href="https://github.com/bradfordjohnson/data-viz/tree/main/atlanta-crime-maps"> 
   <img src="https://github.com/bradfordjohnson/bradfordjohnson/blob/main/images/data-viz/atl-burg-2021.png" width="31%" /> 
     </a>
-  <a href="https://github.com/bradfordjohnson/data-viz/blob/main/rfid-tags/r/02-analyze.R"> 
+  <a href="https://github.com/bradfordjohnson/data-viz/tree/main/rfid-tags"> 
   <img src="https://github.com/bradfordjohnson/bradfordjohnson/blob/main/images/data-viz/daily-rfid-dist-v3.png" width="31%" /> 
     </a>
-  <a href="https://github.com/bradfordjohnson/data-viz/blob/main/new-years-2023/r/02-analyze-resolutions.R"> 
+  <a href="https://github.com/bradfordjohnson/data-viz/tree/main/new-years-2023"> 
   <img src="https://github.com/bradfordjohnson/bradfordjohnson/blob/main/images/data-viz/new-years-resolutions-v3.png" width="31%" /> 
     </a>
  </p>
