@@ -10,10 +10,17 @@ Hobbies: `Hiking`, `Photography`
 
 Social
 ---
+<span>
 <a href="https://public.tableau.com/app/profile/bradfordjohnson">
 <img src="images/svg/tableau-logo.svg" width="20%" />
   </a>
-  
+<!--- space --->
+  &emsp;
+<a href="https://www.linkedin.com/in/bradford-ford-johnson/">
+<img src="images/svg/LinkedIn_icon.svg" width="5%">
+  </a>
+</span>
+
 Gallery
 ---
 <!--- SEND ALL LINKS TO REPOS --->
