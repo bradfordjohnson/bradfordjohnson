@@ -10,8 +10,9 @@ Hobbies: `Hiking`, `Photography`, `Watching Documentaries`
 
 Links
 ---
+
 <a herf="https://public.tableau.com/app/profile/bradfordjohnson">
-<img src="images/svg/tableau-logo.svg" width="20%">
+<img src="images/svg/tableau-logo.svg" width="20%" />
   </a>
   
 Gallery
