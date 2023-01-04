@@ -4,13 +4,12 @@ I'm a data analyst, which is a more concise way of saying: I help businesses mak
 
 Tools: `R`, `Python`, `SQL`, `Tableau`, `Excel`
 
-Hobbies: `Hiking`, `Photography`, `Watching Documentaries`
+Hobbies: `Hiking`, `Photography`
 <!--- WORK IN PROGRESS --->
 **Check out my portfolio:** [ford-johnson.com](https://ford-johnson.com/)
 
-Links
+Social
 ---
-
 <a href="https://public.tableau.com/app/profile/bradfordjohnson">
 <img src="images/svg/tableau-logo.svg" width="20%" />
   </a>
