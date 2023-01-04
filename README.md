@@ -8,6 +8,12 @@ Hobbies: `Hiking`, `Photography`, `Watching Documentaries`
 <!--- WORK IN PROGRESS --->
 **Check out my portfolio:** [ford-johnson.com](https://ford-johnson.com/)
 
+Links
+---
+<a herf="https://public.tableau.com/app/profile/bradfordjohnson">
+<img src="images/svg/tableau-logo.svg" width="20%">
+  </a>
+  
 Gallery
 ---
 <!--- SEND ALL LINKS TO REPOS --->
