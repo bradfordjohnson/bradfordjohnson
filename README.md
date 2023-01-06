@@ -12,17 +12,17 @@ Social
 ---
 <span>
 <a href="https://public.tableau.com/app/profile/bradfordjohnson">
-<img src="images/svg/tableau-logo.svg" width="20%" />
+<img src="images/svg/tableau-logo.svg" alt="Tableau" width="20%" />
   </a>
 <!--- space --->
   &emsp;
 <a href="https://www.linkedin.com/in/bradford-ford-johnson/">
-<img src="images/svg/LinkedIn_icon.svg" width="5%">
+<img src="images/svg/LinkedIn_icon.svg" alt="LinkedIn" width="5%">
   </a>
   <!--- space --->
   &emsp;
 <a href="mailto:BradfordLJohnson@outlook.com">
-<img src="images/svg/Microsoft_Office_Outlook_(2018–present).svg" width="5.5%">
+<img src="images/svg/Microsoft_Office_Outlook_(2018–present).svg" alt="Email" width="5.5%">
   </a>
 </span>
 
