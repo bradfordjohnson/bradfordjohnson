@@ -31,10 +31,10 @@ Gallery
   <a href="https://github.com/bradfordjohnson/data-viz/tree/main/rfid-tags"> 
   <img src="https://github.com/bradfordjohnson/bradfordjohnson/blob/main/images/data-viz/daily-rfid-dist-v3.png" width="31%" /> 
     </a>
-  <a href="https://github.com/bradfordjohnson/data-viz/tree/main/new-years-2023"> 
-  <img src="https://github.com/bradfordjohnson/bradfordjohnson/blob/main/images/data-viz/new-years-resolutions-v3.png" width="31%" /> 
+  <!---<a href=""> 
+  <img src="" width="31%" /> 
     </a>
- </p>
+ </p>--->
 <!--- WORK IN PROGRESS --->
 <!---📊 GitHub stats --->
 <!--- --- --->
