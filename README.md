@@ -19,6 +19,11 @@ Social
 <a href="https://www.linkedin.com/in/bradford-ford-johnson/">
 <img src="images/svg/LinkedIn_icon.svg" width="5%">
   </a>
+  <!--- space --->
+  &emsp;
+<a href="mailto:BradfordLJohnson@outlook.com">
+<img src="images/svg/Microsoft_Office_Outlook_(2018–present).svg" width="5.5%">
+  </a>
 </span>
 
 Gallery
