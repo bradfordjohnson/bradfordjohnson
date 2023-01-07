@@ -6,7 +6,9 @@ Tools: `R`, `Python`, `SQL`, `Tableau`, `Excel`
 
 Hobbies: `Hiking`, `Photography`
 <!--- WORK IN PROGRESS --->
-**Check out my portfolio:** [ford-johnson.com](https://ford-johnson.com/)
+**Check out my portfolio I made with `R` and `Quarto`:** [ford-johnson.com](https://ford-johnson.com/)
+<!--- WORK IN PROGRESS --->
+<!---**Also, check out my `tidytuesday` repo: [here](https://github.com/bradfordjohnson/tidytuesday)**--->
 
 Gallery
 ---
@@ -23,6 +25,7 @@ Gallery
     </a>
  </p>
  
+ <!--- WORK IN PROGRESS --->
  Social
 ---
 <span>
