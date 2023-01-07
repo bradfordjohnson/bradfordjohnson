@@ -15,13 +15,13 @@ Gallery
 <!--- SEND ALL LINKS TO REPOS --->
 <p align= "center">
   <a href="https://github.com/bradfordjohnson/data-viz/tree/main/atlanta-crime-maps"> 
-  <img src="https://github.com/bradfordjohnson/bradfordjohnson/blob/main/images/data-viz/atl-burg-2021.png" width="31%" /> 
+  <img src="images/data-viz/atl-burg-2021.png" width="31%" /> 
     </a>
   <a href="https://github.com/bradfordjohnson/data-viz/tree/main/rfid-tags"> 
-  <img src="https://github.com/bradfordjohnson/bradfordjohnson/blob/main/images/data-viz/daily-rfid-dist-v3.png" width="31%" /> 
+  <img src="images/data-viz/daily-rfid-dist-v3.png" width="31%" /> 
     </a>
   <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2023/week-1/buses.R"> 
-  <img src="https://github.com/bradfordjohnson/tidytuesday/blob/main/2023/week-1/buses.png" width="31%" /> 
+  <img src="images/data-viz/buses.png" width="31%" /> 
     </a>
  </p>
  
