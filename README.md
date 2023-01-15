@@ -25,6 +25,12 @@ Gallery
     </a>
  </p>
  
+ <p align= "center">
+  <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2023/week-2/birds.R"> 
+  <img src="images/data-viz/birds.png" width="31%" /> 
+    </a>
+ </p>
+ 
  <!--- WORK IN PROGRESS --->
  Social
 ---
