@@ -10,7 +10,7 @@ Hobbies: `Hiking`, `Photography`
 <!--- WORK IN PROGRESS --->
 <!---**Also, check out my `tidytuesday` repo: [here](https://github.com/bradfordjohnson/tidytuesday)**--->
 
-Gallery
+Gallery | *more coming soon*
 ---
 <!--- SEND ALL LINKS TO REPOS --->
 <p align= "center">
