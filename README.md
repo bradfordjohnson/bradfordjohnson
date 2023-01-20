@@ -29,6 +29,9 @@ Gallery | *more coming soon*
   <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2023/week-2/birds.R"> 
   <img src="images/data-viz/birds.png" width="31%" /> 
     </a>
+  <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2023/week-3/art-history.R"> 
+  <img src="images/data-viz/art-history-v2.png" width="31%" />
+    </a>
  </p>
  
  <!--- WORK IN PROGRESS --->
