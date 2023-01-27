@@ -18,7 +18,7 @@ Gallery | *more coming soon*
   <img src="images/data-viz/atl-burg-2021.png" width="31%" /> 
     </a>
   <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2022/week-1/rfid.R"> 
-  <img src="images/data-viz/rfid.png" width="31%" /> 
+  <img src="images/data-viz/rfid-v1.png" width="31%" /> 
     </a>
   <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2022/week-2/bees.R"> 
   <img src="images/data-viz/bees.png" width="31%" /> 
