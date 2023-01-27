@@ -17,8 +17,8 @@ Gallery | *more coming soon*
   <a href="https://github.com/bradfordjohnson/data-viz/tree/main/atlanta-crime-maps"> 
   <img src="images/data-viz/atl-burg-2021.png" width="31%" /> 
     </a>
-  <a href="https://github.com/bradfordjohnson/data-viz/tree/main/rfid-tags"> 
-  <img src="images/data-viz/daily-rfid-dist-v3.png" width="31%" /> 
+  <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2022/week-1/rfid.R"> 
+  <img src="images/data-viz/rfid.png" width="31%" /> 
     </a>
   <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2023/week-1/buses.R"> 
   <img src="images/data-viz/buses.png" width="31%" /> 
