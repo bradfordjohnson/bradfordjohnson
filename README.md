@@ -20,8 +20,8 @@ Gallery | *more coming soon*
   <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2022/week-1/rfid.R"> 
   <img src="images/data-viz/rfid.png" width="31%" /> 
     </a>
-  <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2023/week-1/buses.R"> 
-  <img src="images/data-viz/buses.png" width="31%" /> 
+  <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2022/week-2/bees.R"> 
+  <img src="images/data-viz/bees.png" width="31%" /> 
     </a>
  </p>
  
@@ -34,12 +34,6 @@ Gallery | *more coming soon*
     </a>
   <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2023/week-4/alone.R"> 
   <img src="images/data-viz/alone.png" width="31%" />
-    </a>
- </p>
- 
-  <p align= "center">
-  <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2022/week-2/bees.R"> 
-  <img src="images/data-viz/bees.png" width="31%" /> 
     </a>
  </p>
  
