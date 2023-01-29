@@ -1,8 +1,6 @@
 #  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Howdy! I'm Ford
 
-I'm a data analyst, which is a more concise way of saying: I help businesses make data-driven decisions and solve problems. R and SQL are my main tools of the trade, and I enjoy learning more as I continue on my journey.
-
-At any given time I am either working on a project, creating a visual for TidyTuesday, or watching a documentary.
+I'm a data analyst, which is a more concise way of saying: I help businesses make data-driven decisions and solve problems.
 
 Tools: `R`, `Python`, `SQL`, `Tableau`, `Excel`
 
