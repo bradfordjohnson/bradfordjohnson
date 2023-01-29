@@ -17,18 +17,16 @@ Gallery | *more coming soon*
   <a href="https://github.com/bradfordjohnson/data-viz/tree/main/atlanta-crime-maps"> 
   <img src="images/data-viz/atl-burg-2021.png" width="31%" /> 
     </a>
-  <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2022/week-2/bees.R"> 
-  <img src="images/data-viz/bees.png" width="31%" /> 
-    </a>
     <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2023/week-1/rfid.R"> 
   <img src="images/data-viz/rfid-v1.png" width="31%" /> 
+    </a>
+   <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2023/week-2/birds.R"> 
+  <img src="images/data-viz/birds.png" width="31%" /> 
     </a>
  </p>
  
  <p align= "center">
-  <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2023/week-2/birds.R"> 
-  <img src="images/data-viz/birds.png" width="31%" /> 
-    </a>
+
   <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2023/week-3/art-history.R"> 
   <img src="images/data-viz/art-history-v2.png" width="31%" />
     </a>
