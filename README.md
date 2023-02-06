@@ -26,7 +26,6 @@ Gallery
  </p>
  
  <p align= "center">
-
   <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2023/week-3/art-history.R"> 
   <img src="images/data-viz/art-history-v2.png" width="31%" />
     </a>
@@ -37,7 +36,12 @@ Gallery
   <img src="images/data-viz/cats.png" width="31%" />
     </a>
  </p>
- 
+  <p align= "center">
+   <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2023/week-6/stocks.R"> 
+  <img src="images/data-viz/stocks.png" width="31%" />
+    </a>
+  </p>
+  
  <!--- WORK IN PROGRESS --->
  Social
 ---
