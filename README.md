@@ -14,8 +14,8 @@ Gallery
 ---
 <!--- SEND ALL LINKS TO REPOS --->
 <p align= "center">
-  <a href="https://github.com/bradfordjohnson/data-viz/tree/main/atlanta-crime-maps"> 
-  <img src="images/data-viz/atl-burg-2021.png" width="31%" /> 
+  <a href="https://github.com/bradfordjohnson/tidytuesday/tree/main/2023/week-9"> 
+  <img src="images/data-viz/african-languages.png" width="31%" /> 
     </a>
     <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2023/week-1/rfid.R"> 
   <img src="images/data-viz/rfid-v1.png" width="31%" /> 
