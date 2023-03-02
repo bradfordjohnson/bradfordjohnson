@@ -14,37 +14,36 @@ Gallery
 ---
 <!--- SEND ALL LINKS TO REPOS --->
 <p align= "center">
-  <a href="https://github.com/bradfordjohnson/tidytuesday/tree/main/2023/week-9"> 
-  <img src="images/data-viz/african-languages.png" width="31%" /> 
-    </a>
     <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2023/week-1/rfid.R"> 
   <img src="images/data-viz/rfid-v1.png" width="31%" /> 
     </a>
    <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2023/week-2/birds.R"> 
   <img src="images/data-viz/birds.png" width="31%" /> 
     </a>
- </p>
- 
- <p align= "center">
-  <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2023/week-3/art-history.R"> 
+   <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2023/week-3/art-history.R"> 
   <img src="images/data-viz/art-history-v2.png" width="31%" />
     </a>
+ </p>
+ <p align= "center">
   <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2023/week-4/alone.R"> 
   <img src="images/data-viz/alone.png" width="31%" />
     </a>
   <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2023/week-5/cats.R"> 
   <img src="images/data-viz/cats.png" width="31%" />
     </a>
- </p>
-  <p align= "center">
-   <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2023/week-6/stocks.R"> 
+    <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2023/week-6/stocks.R"> 
   <img src="images/data-viz/stocks-v2.png" width="31%" />
     </a>
+ </p>
+  <p align= "center">
    <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2023/week-7/age-gaps.R"> 
   <img src="images/data-viz/age-gaps.png" width="31%" />
     </a>
     <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2023/week-8/bob-ross.R"> 
   <img src="images/data-viz/bob-ross.png" width="31%" />
+    </a>
+   <a href="https://github.com/bradfordjohnson/tidytuesday/tree/main/2023/week-9"> 
+  <img src="images/data-viz/african-languages.png" width="31%" /> 
     </a>
   </p>
   
