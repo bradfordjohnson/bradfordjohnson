@@ -20,7 +20,7 @@ Gallery
    <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2023/2023-01-10/birds.R"> 
   <img src="images/data-viz/birds.png" width="31%" /> 
     </a>
-   <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2023/week-3/art-history.R"> 
+   <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2023/2023-01-17/art-history.R"> 
   <img src="images/data-viz/art-history-v2.png" width="31%" />
     </a>
  </p>
