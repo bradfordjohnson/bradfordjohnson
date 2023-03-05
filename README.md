@@ -39,7 +39,7 @@ Gallery
    <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2023/2023-02-14/age-gaps.R"> 
   <img src="images/data-viz/age-gaps.png" width="31%" />
     </a>
-    <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2023/week-8/bob-ross.R"> 
+    <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2023/2023-02-21/bob-ross.R"> 
   <img src="images/data-viz/bob-ross.png" width="31%" />
     </a>
    <a href="https://github.com/bradfordjohnson/tidytuesday/tree/main/2023/week-9"> 
