@@ -31,7 +31,7 @@ Gallery
   <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2023/2023-01-31/cats.R"> 
   <img src="images/data-viz/cats.png" width="31%" />
     </a>
-    <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2023/week-6/stocks.R"> 
+    <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2023/2023-02-07/stocks.R"> 
   <img src="images/data-viz/stocks-v2.png" width="31%" />
     </a>
  </p>
