@@ -25,7 +25,7 @@ Gallery
     </a>
  </p>
  <p align= "center">
-  <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2023/week-4/alone.R"> 
+  <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2023/2023-01-24/alone.R"> 
   <img src="images/data-viz/alone.png" width="31%" />
     </a>
   <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2023/week-5/cats.R"> 
