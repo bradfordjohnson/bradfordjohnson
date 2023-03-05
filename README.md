@@ -14,7 +14,7 @@ Gallery
 ---
 <!--- SEND ALL LINKS TO REPOS --->
 <p align= "center">
-    <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2023/week-1/rfid.R"> 
+    <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2023/2023-01-03/rfid.R"> 
   <img src="images/data-viz/rfid-v1.png" width="31%" /> 
     </a>
    <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2023/week-2/birds.R"> 
