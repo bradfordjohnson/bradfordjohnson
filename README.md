@@ -42,7 +42,7 @@ Gallery
     <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2023/2023-02-21/bob-ross.R"> 
   <img src="images/data-viz/bob-ross.png" width="31%" />
     </a>
-   <a href="https://github.com/bradfordjohnson/tidytuesday/tree/main/2023/week-9"> 
+   <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2023/2023-02-28/african-languages.R"> 
   <img src="images/data-viz/african-languages.png" width="31%" /> 
     </a>
   </p>
