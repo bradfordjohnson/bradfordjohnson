@@ -13,37 +13,17 @@ Hobbies: `Hiking`, `Photography`
 Gallery
 ---
 <!--- SEND ALL LINKS TO REPOS --->
-<p align= "center">
-    <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2023/2023-01-03/rfid.R"> 
-  <img src="images/data-viz/rfid-v1.png" width="31%" /> 
+ <p align= "center">
+  <a href="https://github.com/bradfordjohnson/seinfeld-analysis"> 
+  <img src="images/data-viz/01-seinfeld-sentiment.png" width="70%" />
     </a>
-   <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2023/2023-01-10/birds.R"> 
-  <img src="images/data-viz/birds.png" width="31%" /> 
-    </a>
-   <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2023/2023-01-17/art-history.R"> 
-  <img src="images/data-viz/art-history-v2.png" width="31%" />
-    </a>
- </p>
+    </p>
  <p align= "center">
   <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2023/2023-01-24/alone.R"> 
-  <img src="images/data-viz/alone.png" width="31%" />
-    </a>
-  <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2023/2023-01-31/cats.R"> 
-  <img src="images/data-viz/cats.png" width="31%" />
-    </a>
-    <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2023/2023-02-07/stocks.R"> 
-  <img src="images/data-viz/stocks-v2.png" width="31%" />
-    </a>
- </p>
-  <p align= "center">
-   <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2023/2023-02-14/age-gaps.R"> 
-  <img src="images/data-viz/age-gaps.png" width="31%" />
-    </a>
-    <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2023/2023-02-21/bob-ross.R"> 
-  <img src="images/data-viz/bob-ross.png" width="31%" />
+  <img src="images/data-viz/alone.png" width="40%" />
     </a>
    <a href="https://github.com/bradfordjohnson/tidytuesday/blob/main/2023/2023-02-28/african-languages.R"> 
-  <img src="images/data-viz/african-languages.png" width="31%" /> 
+  <img src="images/data-viz/african-languages.png" width="40%" /> 
     </a>
   </p>
   
