@@ -10,9 +10,14 @@ Tools & Tech
 [![](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFFFFF&logoWidth=14)]()
 [![](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF&logoWidth=14)]()
 [![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=FFFFFF&logoWidth=14)]()
----
+
 [![](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=FFFFFF&logoWidth=14)]()
 [![](https://img.shields.io/badge/Google%20BigQuery-669DF6?style=for-the-badge&logo=Google%20BigQuery&logoColor=FFFFFF&logoWidth=14)]()
 [![](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=Google%20Analytics&logoColor=FFFFFF&logoWidth=14)]()
 [![](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=Looker&logoColor=FFFFFF&logoWidth=14)]()
+
+Stats
 ---
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bradfordjohnson&theme=nord_dark)]()
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=bradfordjohnson)]()
