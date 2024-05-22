@@ -24,10 +24,12 @@ jobs:
           config_animations: yes
           config_timezone: America/New_York
           plugin_languages: yes
-          plugin_languages_ignored: html, css, tex, less, qmake, lex, cmake, gnuplot
+          plugin_languages_ignored: html, css, tex, less, qmake, lex, cmake, gnuplot, scss
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
           plugin_habits: yes
           plugin_habits_from: 250
-          plugin_habits_days: 14
+          plugin_habits_days: 30
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           plugin_calendar: yes
