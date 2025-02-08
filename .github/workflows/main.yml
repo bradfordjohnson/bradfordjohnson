@@ -29,6 +29,7 @@ jobs:
           base: header, activity
           config_timezone: America/New_York
           plugin_habits: yes
+          plugin_habits_trim: true
           plugin_habits_charts: yes
           plugin_habits_charts_type: classic
           plugin_habits_days: 30
